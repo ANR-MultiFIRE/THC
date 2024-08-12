@@ -50,7 +50,7 @@ The model is based on previous works, such as:
 - [Moreira 2021] M. H. Moreira, S. Dal Pont, R. F. Ausas, T. M. Cunha, A. P. Luz, V. C. Pandolfelli, "Direct comparison of multi and single-phase models depicting the drying process of refractory castables", Open Ceramics, 6:100111, 2021.
 
 ## License
-[GPL](link_to_repo_license.MD)
+[GPL](LICENSE)
 
 
 Supplementary code to "Thermo-hygro-chemical Model of Concrete - From Curing to High Temperature Behavior". Copyright (C) 2024 Giuseppe Sciumé, Murilo Henrique Moreira and Stefano Dal Pont.
