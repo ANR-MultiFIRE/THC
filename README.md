@@ -1,5 +1,5 @@
 # Supplementary Code
-Repository with the Thermo-hygro-chemical (THC) model of concrete at high temperatures based in FEniCS described in "Thermo-hygro-chemical Model of Concrete - From Curing to High Temperature Behavior" by Sciumé et al. accepted at the Materials and Structures (2024).
+Repository with the Thermo-hygro-chemical (THC) model of concrete at high temperatures based in FEniCS described in "Thermo-hygro-chemical Model of Concrete - From Curing to High Temperature Behavior" by G.Sciumé, M.Moreira and S.Dal Pont accepted at the Materials and Structures (2024).
 Please, in case of use, cite the corresponding paper.
 
 ## Repository Structure
