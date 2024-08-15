@@ -30,8 +30,9 @@ Please, in case of use, cite the corresponding paper.
 ```
 
 ## How to run the simulation:
-1. On the root folder of this repository run `python3 ./simulations/run_ya_kanema_2D_axi_manual_7_days.py`
-2. A `./temp.py` will be created, this is only a temporary copy of the case input and will be re-writen everytime a given `run_*.py` case is run
+
+1. On the `./thermohygrochemo` folder of this repository run `python3 ./simulations/run_ya_kanema_2D_axi_manual_7_days.py`
+2. A `./temp.py` will be created in the root folder of the repository, this is only a temporary copy of the case input and will be re-writen everytime a given `run_*.py` case is run
 2. A `./results` directory will be created and the results will be saved there.
 3. Once it finished the xdmf files can be loaded using Paraview, or Python scripts.
 4. If you want to create a custom simulation, make a copy of the `run_ya_kanema_2D_axi_manual_7_days.py` and `case_input_ya_kanema_2D_axi_manual_7_days.py` in the `./simulations` directory. Update the boundary conditions and the name for the simulation. Don't forget to change the filename for the correct material and case_input in your new `run_ya_*.py` file. If you have any doubts, feel free to open an issue.
@@ -50,7 +51,7 @@ The model is based on previous works, such as:
 - [Moreira 2021] M. H. Moreira, S. Dal Pont, R. F. Ausas, T. M. Cunha, A. P. Luz, V. C. Pandolfelli, "Direct comparison of multi and single-phase models depicting the drying process of refractory castables", Open Ceramics, 6:100111, 2021.
 
 ## License
-[GPL](link_to_repo_license.MD)
+[GPL](LICENSE)
 
 
 Supplementary code to "Thermo-hygro-chemical Model of Concrete - From Curing to High Temperature Behavior". Copyright (C) 2024 Giuseppe Sciumé, Murilo Henrique Moreira and Stefano Dal Pont.
